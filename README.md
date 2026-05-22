@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Something in the orange of the fading sun,
+> Tells me that our evening has just begun.
+> Pulling you closer in the amber light,
+> I'm losing my senses to you tonight.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
