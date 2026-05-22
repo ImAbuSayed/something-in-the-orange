@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Something in the Orange
+
+This log tracks the cryptographic history and versioning for the song **Something in the Orange** (something-in-the-orange).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T04:58:50.144978 | `v1` | `355106c733fcdc557ecc759ca984ec4c70c598670ddfdaed98546f0d47469c23` | `9ecf6fcf39abd14ae74797812ec95c43b83f5d59b3ebb87c02b2091c28115118` | `2026-05-23_something-in-the-orange-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
